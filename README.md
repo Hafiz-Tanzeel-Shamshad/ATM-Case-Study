@@ -1,1 +1,1 @@
-# ATM-Case-Stuty
+# ATM-Case-Study
