@@ -1,6 +1,41 @@
-# Java CLI ATM Simulation System
+# Java ATM Simulation System
 
-This project simulates an ATM (Automated Teller Machine) system with basic banking operations such as balance inquiry, cash withdrawal, and fund deposit. It consists of several Java classes organized into packages to simulate different components of the ATM system.
+This project simulates an ATM (Automated Teller Machine) system with basic banking operations such as balance inquiry, cash withdrawal, 
+and fund deposit. It consists of several Java classes organized into packages to simulate different components of the ATM system.
+
+## Purpose of the Code
+
+The purpose of the provided code is to understand the Object-Oriented Programming (OOP) concepts and efficient package organization.
+
+
+### Object-Oriented Programming (OOP) Concepts Covered
+
+- **Encapsulation:** 
+  
+- **Inheritance:** 
+  
+- **Polymorphism:** 
+  
+- **Abstraction:** 
+
+### Package Organization
+
+The code is structured into packages (ATM, Banking, Hardware) to logically group related classes and components:
+
+
+### Benefits of Package Organization
+
+Organizing classes into packages offers several advantages:
+
+- **Modularity:** 
+  
+- **Namespace Management:** 
+  
+- **Access Control:** 
+  
+- **Reusability:**
+
+
 
 ## Table of Contents
 - [Overview](#overview)
