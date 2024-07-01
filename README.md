@@ -1,4 +1,4 @@
-# ATM Simulation System
+# Java CLI ATM Simulation System
 
 This project simulates an ATM (Automated Teller Machine) system with basic banking operations such as balance inquiry, cash withdrawal, and fund deposit. It consists of several Java classes organized into packages to simulate different components of the ATM system.
 
