@@ -58,6 +58,9 @@ The ATM system allows users to authenticate themselves using an account number a
 - **Main.java**
   - Entry point for running the ATM simulation system. Initializes the ATM object and starts the application.
 
+## Installation
+Ensure you have Java Development Kit (JDK) installed to compile and run the Java files. No additional dependencies are required.
+
 ## How to Run
 
 1. Clone the repository to your local machine.
@@ -66,8 +69,6 @@ The ATM system allows users to authenticate themselves using an account number a
 
 3. Compile and run the `Main.java` file to start the ATM simulation.
 
-## Installation
-Ensure you have Java Development Kit (JDK) installed to compile and run the Java files. No additional dependencies are required.
 
 ## Usage
 To use the ATM system:
